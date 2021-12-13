@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\Program Internship OCBC\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\FinalProject.csproj": {}
+    "I:\\Bootcamp hacktiv8 C#\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "I:\\Program Internship OCBC\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\FinalProject.csproj": {
+    "I:\\Bootcamp hacktiv8 C#\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\Program Internship OCBC\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "I:\\Bootcamp hacktiv8 C#\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "I:\\Program Internship OCBC\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "projectPath": "I:\\Bootcamp hacktiv8 C#\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "I:\\Program Internship OCBC\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\obj\\",
+        "outputPath": "I:\\Bootcamp hacktiv8 C#\\FSDO002ONL016_EsraDelimaManurung_Final_Project\\FinalProject\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
